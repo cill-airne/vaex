@@ -91,3 +91,5 @@ packages/vaex-core/vaex/server
 packages/vaex-core/vaex/ui
 packages/vaex-core/vaex/viz
 packages/vaex-core/vaex/*.*-win_amd64.pyd
+JC/out.pqt
+JC/out.arrow
